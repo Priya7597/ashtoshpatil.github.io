@@ -1,2 +1,2 @@
 # ashtoshpatil.github.io
-smartphones manufacturing
+permalink:/index.html
